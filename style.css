@@ -1,3 +1,14 @@
+body{
+    background-color: black;
+}
 h1{
     color: white;
+}
+header{
+    text-align: center;
+    background-color: rgb(180, 135, 222);
+    border-radius: 80px;
+    width: 50%;
+    margin-left: 25%;
+    justify-content: center;
 }
